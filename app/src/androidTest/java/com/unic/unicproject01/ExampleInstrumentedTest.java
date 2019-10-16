@@ -1,4 +1,4 @@
-package com.unic.trial.android.unicproject01;
+package com.unic.unicproject01;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.unic.trial.android.unicproject01", appContext.getPackageName());
+        assertEquals("com.unic.unicproject01", appContext.getPackageName());
     }
 }

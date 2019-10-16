@@ -1,4 +1,4 @@
-package com.unic.trial.android.unicproject01;
+package com.unic.unicproject01;
 
 import org.junit.Test;
 
